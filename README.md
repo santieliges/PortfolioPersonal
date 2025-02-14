@@ -1,4 +1,4 @@
-# Portfolio de Ciencia de Datos
+# Portfolio de Santiago Eliges
 
 Este repositorio reúne proyectos desarrollados como parte de mi experiencia en ciencia de datos, con un enfoque en análisis de datos, aprendizaje automático y soluciones para problemas de negocio.
 
