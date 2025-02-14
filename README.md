@@ -19,7 +19,7 @@ Este proyecto implementa un sistema de recomendación basado en **K-Nearest Neig
 **Herramientas y tecnologías**:
 - Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
 
-[Más detalles en el notebook]([link-a-tu-notebook](https://github.com/santieliges/PortfolioPersonal/blob/main/SistemaDeRecomendacionBasadoEnKNN/Recomendaciones%20usando%20KNN.ipynb))
+[Más detalles en el notebook](https://github.com/santieliges/PortfolioPersonal/blob/main/SistemaDeRecomendacionBasadoEnKNN/Recomendaciones%20usando%20KNN.ipynb)
 
 ---
 
@@ -39,7 +39,7 @@ Posteriormente, se emplea K-Means para agrupar clientes en segmentos y diseñar 
 **Herramientas y tecnologías**:
 - Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
-[Más detalles en el notebook]([link-a-tu-notebook](https://github.com/santieliges/PortfolioPersonal/blob/main/RFM%20clustering%20con%20KMeans/RFM_clustering_con_Kmeans.ipynb))
+[Más detalles en el notebook](https://github.com/santieliges/PortfolioPersonal/blob/main/RFM%20clustering%20con%20KMeans/RFM_clustering_con_Kmeans.ipynb)
 
 ---
 
@@ -54,6 +54,6 @@ Este proyecto desarrolla un análisis predictivo utilizando modelos de clasifica
 **Herramientas y tecnologías**:
 - R, ggplot2, caret, dplyr.
 
-[Más detalles en el archivo R Markdown]([link-a-tu-archivo](https://github.com/santieliges/PortfolioPersonal/blob/main/Modelos%20de%20clasificaci%C3%B3n/ModelosDeClasificacion.pdf))
+[Más detalles en el archivo R Markdown](https://github.com/santieliges/PortfolioPersonal/blob/main/Modelos%20de%20clasificaci%C3%B3n/ModelosDeClasificacion.pdf)
 
 ---
