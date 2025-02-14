@@ -7,7 +7,7 @@ Este repositorio reúne algunos proyectos desarrollados como parte de mi experie
 ## Proyectos
 
 ### 1. Recomendaciones usando KNN
-Este proyecto implementa un sistema de recomendación basado en **K-Nearest Neighbors (KNN)** para personalizar la experiencia de compra en e-commerce.
+Este proyecto implementa un sistema de recomendación basado en **K-Nearest Neighbors (KNN)** para personalizar la experiencia de compra en e-commerce. El objetivo es encontrar patrones de consumos entre distintos usuarios para realizar recomendaciones más certeras.
 
 **Características principales**:
 - Analiza patrones de compra para recomendar productos relevantes.
