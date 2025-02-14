@@ -44,7 +44,7 @@ Posteriormente, se emplea K-Means para agrupar clientes en segmentos y diseñar 
 ---
 
 ### 3. Modelos de Clasificación en R
-Este proyecto desarrolla un análisis predictivo utilizando modelos de clasificación para predecir comportamientos en datos de mercado. Trabaja con un conjunto de datos financieros que abarca desde 2001 hasta 2005, analizando variables relacionadas con rendimientos porcentuales y otros indicadores.
+Este proyecto desarrolla un análisis predictivo utilizando distintos modelos de clasificación para predecir comportamientos en datos de mercado. Trabaja con un conjunto de datos financieros que abarca desde 2001 hasta 2005, analizando variables relacionadas con rendimientos porcentuales y otros indicadores.
 
 **Características principales**:
 - Procesamiento de datos financieros históricos.
