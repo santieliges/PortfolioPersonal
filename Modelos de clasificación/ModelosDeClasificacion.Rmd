@@ -1,15 +1,29 @@
 ---
-title: "prefinal - Eliges"
+title: "Prediccion de subida/bajada del mercado a travez de rendimientos bursatiles"
 author: "Santiago Eliges"
-date: "2024-09-24"
 output:
   pdf_document: default
   html_document: default
 ---
+## Introducción
+
+En este análisis, exploraremos un conjunto de datos financieros que registra los rendimientos porcentuales diarios de varios activos a lo largo de cinco años (2001-2005). El objetivo principal es predecir el comportamiento futuro del mercado utilizando modelos de clasificación basados en variables históricas. Los datos incluyen rendimientos de los cinco días de negociación previos a cada observación, además de una variable de respuesta que indica el movimiento del mercado (subida o bajada).
+
+Este proyecto cubre:
+- Análisis exploratorio de datos (EDA).
+- Limpieza y preprocesamiento de datos.
+- Entrenamiento y evaluación de varios modelos de clasificación.
+- Comparación de métricas de rendimiento para seleccionar el mejor modelo.
+
+**Herramientas y tecnologías utilizadas:**
+- R
+- Librerías: `caret`, `ggplot2`, `dplyr`
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
 ## Entendiendo el dataset
 Dentro del archivo 'stocks.txt' se encuentran los datos divididos por fechas desde el año 2001 hasta el 2005 donde para cada dia, se han registrado los rendimientos porcentuales de cada uno de los cinco días de negociación anteriores, disponibles en las variables lag1, lag2, lag3, lag4, lag5.
 En la variable Volumen se registra la cantidad de acciones negociadas en el día anterior en miles de millones.
